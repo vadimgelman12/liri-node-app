@@ -36,6 +36,9 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Ignore DS_Store files
+.DS_Store
+
 # Typescript v1 declaration files
 typings/
 
